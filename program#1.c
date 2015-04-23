@@ -2,5 +2,5 @@
 main()
 {
     printf("program2");
-    printf("program2");
+    printf("program1");
 }

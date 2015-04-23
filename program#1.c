@@ -1,6 +1,6 @@
 #include<stdio.h>
 main()
 {
-    printf("program2");
+    printf("Program1");
     printf("program1");
 }
